@@ -1,6 +1,7 @@
 <p align="center">
     <img src="/logo.svg" />
     <br />
+    <br />
     <img src="/vulk.svg" />
 </p>
     
