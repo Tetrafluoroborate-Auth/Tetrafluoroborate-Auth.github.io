@@ -1,6 +1,5 @@
 <p align="center">
     <img src="/logo.svg" />
-    <img src="/vulk.svg" />
 </p>
     
 # Tetrafluoroborate
