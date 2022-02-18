@@ -11,7 +11,7 @@ Tetrafluoroborate is a practical, free, open-open source guide for beginners loo
 
 ## Tools Used
 
-The tools that are being used in this guide have been picked carefully and are based on a few **important** parameters.
+The tools used here have been picked based on a few **important** parameters.
 
 1. **Ease of use**
     - *how easy are these to use?*
@@ -30,4 +30,7 @@ For additional assistance, refer to these pages
 
 #### Signup/Install Guide
 
-- [MongoDB]()
+- [MongoDB](https://github.com/Tetrafluoroborate-Auth/Tetrafluoroborate-Auth.github.io/blob/main/UsageGuide.md#mongodb)
+- [MongoDB Compass](https://github.com/Tetrafluoroborate-Auth/Tetrafluoroborate-Auth.github.io/blob/main/UsageGuide.md#mongodb-compass)
+- [Heroku](https://github.com/Tetrafluoroborate-Auth/Tetrafluoroborate-Auth.github.io/blob/main/UsageGuide.md#heroku)
+- [Node.js](https://github.com/Tetrafluoroborate-Auth/Tetrafluoroborate-Auth.github.io/blob/main/UsageGuide.md#nodejs)
