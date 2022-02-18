@@ -25,6 +25,15 @@ Need help signing up or installing the tools used in Tetrafluoroborate?
 ### Network Access
 - ![mongo5](/mongo5.png)
 
+### Database Deployments
+- ![mongo6](/mongo6.png)
+
+### Collections
+- ![mongo7](/mongo7.png)
+
+### Create a database
+- ![mongo8](/mongo8.png)
+
 ## MongoDB Compass
 ## Heroku
 ## Node.js
