@@ -1,3 +1,8 @@
+<p align="center">
+    <img src="/logo.svg" />
+    <img src="/vulk.svg" />
+</p>
+    
 # Tetrafluoroborate
 
 Tetrafluoroborate is a practical, free, open-open source guide for beginners looking to create a self-sustained service.
@@ -19,4 +24,8 @@ The tools that are being used in this guide have been picked carefully and are b
 - [Heroku](https://signup.heroku.com/) -> To keep our server running at all times, **for free**!!
 - [Node.js](https://nodejs.org/en/) -> Language to program our server (good middle-ground language)
 
+For additional assistance, refer to these pages
 
+#### Signup/Install Guide
+
+- [MongoDB]()
