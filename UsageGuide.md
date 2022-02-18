@@ -26,7 +26,7 @@ Need help signing up or installing the tools used in Tetrafluoroborate?
 - ![mongo5](/mongo5.png)
 
 ### Database Deployments
-- ![mongo6](/mongo6.png)
+- ![mongo6](/mongo6.PNG)
 
 ### Collections
 - ![mongo7](/mongo7.png)
