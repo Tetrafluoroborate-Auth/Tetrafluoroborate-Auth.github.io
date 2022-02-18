@@ -2,10 +2,10 @@
 
 Need help signing up or installing the tools used in Tetrafluoroborate?
 
-- [MongoDB]()
-- [MongoDB Compass]()
-- [Heroku]()
-- [Node.js]()
+- [MongoDB](https://github.com/Tetrafluoroborate-Auth/Tetrafluoroborate-Auth.github.io/blob/main/UsageGuide.md#mongodb)
+- [MongoDB Compass](https://github.com/Tetrafluoroborate-Auth/Tetrafluoroborate-Auth.github.io/blob/main/UsageGuide.md#mongodb-compass)
+- [Heroku](https://github.com/Tetrafluoroborate-Auth/Tetrafluoroborate-Auth.github.io/blob/main/UsageGuide.md#heroku)
+- [Node.js](https://github.com/Tetrafluoroborate-Auth/Tetrafluoroborate-Auth.github.io/blob/main/UsageGuide.md#nodejs)
 
 ## MongoDB
 
