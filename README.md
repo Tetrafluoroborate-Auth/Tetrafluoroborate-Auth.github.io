@@ -26,11 +26,5 @@ The tools used here have been picked based on a few **important** parameters.
 - [Heroku](https://signup.heroku.com/) -> To keep our server running at all times, **for free**!!
 - [Node.js](https://nodejs.org/en/) -> Language to program our server (good middle-ground language)
 
-For additional assistance, refer to these pages
+For additional assistance, click [here](https://github.com/Tetrafluoroborate-Auth/Tetrafluoroborate-Auth.github.io/blob/main/UsageGuide.md)
 
-#### Signup/Install Guide
-
-- [MongoDB](https://github.com/Tetrafluoroborate-Auth/Tetrafluoroborate-Auth.github.io/blob/main/UsageGuide.md#mongodb)
-- [MongoDB Compass](https://github.com/Tetrafluoroborate-Auth/Tetrafluoroborate-Auth.github.io/blob/main/UsageGuide.md#mongodb-compass)
-- [Heroku](https://github.com/Tetrafluoroborate-Auth/Tetrafluoroborate-Auth.github.io/blob/main/UsageGuide.md#heroku)
-- [Node.js](https://github.com/Tetrafluoroborate-Auth/Tetrafluoroborate-Auth.github.io/blob/main/UsageGuide.md#nodejs)
