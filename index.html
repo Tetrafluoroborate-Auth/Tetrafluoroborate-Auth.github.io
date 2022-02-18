@@ -7,7 +7,7 @@
     <section>
       <h1>Sign up</h1>
 
-      <form action="http://localhost:5000/signup">
+      <form action="https://tetrafluoroborate.herokuapp.com/signup" method="POST">
         <div>
           <label>Username</label>
           <input name="username" />
@@ -16,7 +16,8 @@
           <label>Password</label>
           <input name="password" />
         </div>
-        <button type="submit"">Sign up</button>
+        <button type="submit">Sign up</button>
+        <div class="h-captcha" data-sitekey="58e22968-3091-48af-a2f3-aa486c76cbd5"></div>
       </form>
     </section>
 
@@ -32,8 +33,7 @@
           <label>Password</label>
           <input name="password" />
         </div>
-        <button type="submit"">Sign up</button>
-        <div class="h-captcha" data-sitekey="58e22968-3091-48af-a2f3-aa486c76cbd5"></div>
+        <button type="submit">Sign up</button>
       </form>
     </section>
   </body>
