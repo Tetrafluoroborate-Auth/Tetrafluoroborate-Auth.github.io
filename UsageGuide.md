@@ -19,6 +19,12 @@ Need help signing up or installing the tools used in Tetrafluoroborate?
 ### Create a Shared Cluster
 ![mongo3](/mongo3.png)
 
+### Security Quickstart
+![mongo4](/mongo4.png)
+
+### Network Access
+![mongo5](/mongo5.png)
+
 ## MongoDB Compass
 ## Heroku
 ## Node.js
