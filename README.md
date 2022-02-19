@@ -6,12 +6,10 @@
 </p>
     
 # Tetrafluoroborate
-
 Tetrafluoroborate is a practical, free, open-open source guide for beginners looking to create a self-sustained service.
 
 ## Tools Used
-
-The tools used here have been picked based on a few **important** parameters.
+The tools used here are selected based on a few **important** parameters.
 
 1. **Ease of use**
     - *how easy are these to use?*
@@ -27,4 +25,3 @@ The tools used here have been picked based on a few **important** parameters.
 - [Node.js](https://nodejs.org/en/) -> Language to program our server (good middle-ground language)
 
 For additional assistance, click [here](https://github.com/Tetrafluoroborate-Auth/Tetrafluoroborate-Auth.github.io/blob/main/UsageGuide.md)
-
